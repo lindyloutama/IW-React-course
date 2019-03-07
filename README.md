@@ -12,21 +12,6 @@ https://www.meetup.com/Infinity-Works-101-Sessions/
   * If you're a complete beginner check out https://codeup.com
 
 ## Schedule
-
-* Manchester - GoLang-100 (November 2018 - 3 sessions)
-  * 8th November 2018
-  * 15th November 2018
-  * 22nd November 2018
-* Manchester - Hugo-100 (December 2018 - 1 sessions)
-  * 6th December
-* Manchester - ServerlessAWS-100 (January 2019 - 3 sessions)
-  * 10th January 2019
-  * 17th January 2019
-  * 24th January 2019
-* Manchester - Terraform-100 (February 2019 - 3 sessions)
-  * 7th February 2019
-  * 14th February 2019
-  * 21st February 2019
 * Manchester - React (March 2019 - 3 sessions)
   * 5th March 2019
   * 13th March 2019
@@ -64,18 +49,3 @@ Sexual language and imagery is not appropriate for any venue, including talks. P
 ## Public Slack Channel
 
 https://iw-101-sessions.slack.com
-
-## Course Details and Resources
-
-The first part represents the topic, e.g. `GoLang-100`
-
-The second part represents the level and the session:
-
-* `GoLang-101`
-  * 1xx = introductory level
-  * xx1 = the first session of the course
-* `GoLang-102`
-  * 1xx = introductory level
-  * xx2 = the second session of the course
-* `Hugo-202`
-  * Second session (xx2) of the intermediate course (2xx).
