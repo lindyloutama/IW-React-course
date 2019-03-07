@@ -1,5 +1,5 @@
 import React from 'react';
 
 export default ({ count }) => (
-  <div>Count: {count}</div>
+  <div>Beer Count: {count}</div>
 );

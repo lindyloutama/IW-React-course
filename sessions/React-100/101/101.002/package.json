@@ -1,7 +1,7 @@
 {
   "name": "react-basic",
   "version": "1.0.0",
-  "description": "",
+  "description": "Shows the use of Node.js tooling such as `parcel` to convert JSX into minified `React.createElement` statements.",
   "main": "index.js",
   "scripts": {
     "start": "cross-env NODE_ENV=development parcel index.html"
@@ -18,5 +18,6 @@
   },
   "devDependencies": {
     "cross-env": "^5.2.0"
-  }
+  },
+  "keywords": []
 }
